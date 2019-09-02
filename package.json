@@ -1,0 +1,16 @@
+{
+  "name": "node-cdc",
+  "version": "1.0.0",
+  "description": "node js for cdc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
